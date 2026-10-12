@@ -1,0 +1,10 @@
+.profile-card {
+  border: 1px solid #ddd;
+ padding: 16px;
+  border-radius: 12px;
+}
+
+.profile-card.featured {
+  border-color: gold;
+  box-shadow: 0 0 12px rgba(255, 215, 0, 0.6);
+}
